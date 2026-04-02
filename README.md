@@ -180,7 +180,7 @@
               media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
               srcset="https://raw.githubusercontent.com/Belseck/Belseck/output/pacman-contribution-graph.svg"
             />
-            <img src="https://raw.githubusercontent.com/Belseck/Belseck/output/pacman-contribution-graph.svg"></picture></a>
+            <img width=95% src="https://raw.githubusercontent.com/Belseck/Belseck/output/pacman-contribution-graph.svg"></picture></a><br>
     <a>
   </p>
 </div>

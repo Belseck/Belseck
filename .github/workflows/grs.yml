@@ -27,7 +27,8 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_color=e5e3e3
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_color=e5e3e3
+          # &show=reviews,prs_merged,prs_merged_percentage
           path: profile/stats.svg
           token: ${{ secrets.GIT_STATS_CLASIC_TOKEN }}
 
@@ -35,7 +36,8 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark
+          # &show=reviews,prs_merged,prs_merged_percentage
           path: profile/stats-dark.svg
           token: ${{ secrets.GIT_STATS_CLASIC_TOKEN }}
 
