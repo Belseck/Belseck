@@ -164,7 +164,7 @@
   <p align="justify">
     <ul>
       <li>English communication (B1 → B2)</li>
-      <li>System Design</li>
+      <li>AI systems and agent-based architectures</li>
     </ul>
   </p>
 </div>
