@@ -1,7 +1,13 @@
 <a target="_blank" href="#">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&color=A3A3A3&reversal=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&color=212121&reversal=true">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://capsule-render.vercel.app/api?type=waving&height=100&color=A3A3A3&reversal=true"
+     />
+    <source
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://capsule-render.vercel.app/api?type=waving&height=100&color=212121&reversal=true"
+    />
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=A3A3A3&reversal=true" />
   </picture></a>
 
@@ -136,23 +142,44 @@
   <p align="center">
     <a href="https://github.com/Belseck">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Belseck&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true">
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Belseck&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_color=e5e3e3">
+            <source
+              media="(prefers-color-scheme: dark)"
+              srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Belseck&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"
+            />
+            <source
+              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+              srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Belseck&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_color=e5e3e3"
+            />
             <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Belseck&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"></picture></a>
     <a href="https://github.com/Belseck">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Belseck&count_private=true&include_all_commits=true&theme=dark&hide_border=true">
+            <source
+              media="(prefers-color-scheme: dark)"
+              srcset="https://github-readme-streak-stats.herokuapp.com/?user=Belseck&count_private=true&include_all_commits=true&theme=dark&hide_border=true"
+            />
             <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Belseck&count_private=true&include_all_commits=true&hide_border=false&border_color=e5e3e3">
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=Belseck&count_private=true&include_all_commits=true&theme=dark&hide_border=true"></picture></a><br>
     <a href="https://github.com/Belseck">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Belseck&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true">
-            <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Belseck&show_icons=true&count_private=true&include_all_commits=true&hide_border=true">
+            <source
+              media="(prefers-color-scheme: dark)"
+              srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Belseck&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true"
+            />
+            <source
+              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+              srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Belseck&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"
+            />
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Belseck&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true"></picture></a><br>
     <a href="https://github.com/Belseck">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Belseck/Belseck/output/pacman-contribution-graph-dark.svg">
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Belseck/Belseck/output/pacman-contribution-graph.svg">
+            <source
+              media="(prefers-color-scheme: dark)"
+              srcset="https://raw.githubusercontent.com/Belseck/Belseck/output/pacman-contribution-graph-dark.svg"
+            />
+            <source
+              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+              srcset="https://raw.githubusercontent.com/Belseck/Belseck/output/pacman-contribution-graph.svg"
+            />
             <img src="https://raw.githubusercontent.com/Belseck/Belseck/output/pacman-contribution-graph.svg"></picture></a>
     <a>
   </p>
@@ -208,7 +235,13 @@
 
 <a target="_blank" href="#">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&color=A3A3A3&section=footer&reversal=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&color=212121&section=footer&reversal=true">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://capsule-render.vercel.app/api?type=waving&height=100&color=A3A3A3&section=footer&reversal=true"
+    />
+    <source
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://capsule-render.vercel.app/api?type=waving&height=100&color=212121&section=footer&reversal=true"
+    />
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=A3A3A3&section=footer&reversal=true" />
   </picture></a>
