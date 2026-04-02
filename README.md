@@ -185,8 +185,10 @@
   </p>
 </div>
 
-<!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#all-demos
-![Stats](./profile/stats.svg) -->
+<!-- https://github.com/stats-organization/github-readme-stats-action/tree/v1.1.0
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg) -->
 
 ---
 
