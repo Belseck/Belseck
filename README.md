@@ -149,7 +149,7 @@
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Belseck&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true">
             <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Belseck&show_icons=true&count_private=true&include_all_commits=true&hide_border=true">
-            <img height="219em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Belseck&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true"/></a>
+            <img height="219em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Belseck&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true"/>
         </picture></a>
   </p>
 </div>
