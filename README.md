@@ -142,7 +142,7 @@
     <a href="https://github.com/Belseck">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Belseck&count_private=true&include_all_commits=true&theme=dark&hide_border=true">
-            <source media="(prefers-color-scheme: light)" srcset="hhttps://github-readme-streak-stats.herokuapp.com/?user=Belseck&count_private=true&include_all_commits=true&hide_border=true">
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Belseck&count_private=true&include_all_commits=true&hide_border=true">
             <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Belseck&count_private=true&include_all_commits=true&theme=dark&hide_border=true"/></a>
         </picture></a>
     <a href="https://github.com/Belseck">
