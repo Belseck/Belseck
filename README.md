@@ -73,6 +73,8 @@
           <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&style=for-the-badge&logoColor=white" alt="Bootstrap"/></a>&nbsp;
         <a target="_blank" href="https://sass-lang.com/">
           <img src="https://img.shields.io/badge/Sass-C69?logo=sass&style=for-the-badge&logoColor=white" alt="Sass"/></a>&nbsp;
+        <a target="_blank" href="https://sass-lang.com/">
+          <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&style=for-the-badge&logoColor=white" alt=".NET"/></a>&nbsp;
       </li>
       <li>
         <h3>Databases</h3>
