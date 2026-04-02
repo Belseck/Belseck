@@ -157,6 +157,9 @@
   </p>
 </div>
 
+<!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#all-demos
+![Stats](./profile/stats.svg) -->
+
 ---
 
 <div>
