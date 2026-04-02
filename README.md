@@ -20,7 +20,7 @@
   </h2>
   <p align="justify">
     <a target="_blank" href="#">
-      <img align="right" style="width:20rem; height:auto; margin-bottom:1rem;" src="https://github.com/Belseck/Belseck/blob/master/TNCR-graphics-KB-2.gif"/></a>
+      <img align="right" style="min-width:380px; width:20rem; height:auto; margin-bottom:10rem;" src="https://github.com/Belseck/Belseck/blob/master/TNCR-graphics-KB-2.gif"/></a>
     Fullstack Developer with 9+ years of experience building scalable mobile and web applications.
     Proven experience in Android development and fullstack solutions, with a strong focus on performance optimization, bug reduction, and clean, maintainable code.
     Passionate about delivering high-quality software with real-world impact, applying clean architecture principles and best development practices.<br><br>
