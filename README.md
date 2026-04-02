@@ -5,8 +5,7 @@
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=A3A3A3&reversal=true" />
   </picture></a>
 
-<h1 align="center">Hi, I'm Juan Diego Rodriguez&nbsp;<a target="_blank" href="#">
-      <img src="https://media.giphy.com/media/h8CYgLGGiBbA32rcOC/giphy.gif" width="100"></a></h1>
+<h1 align="center">Hi, I'm Juan Diego Rodriguez&nbsp;<a target="_blank" href="#"><img src="https://media.giphy.com/media/h8CYgLGGiBbA32rcOC/giphy.gif" width="100"></a></h1>
 
 <p align="center">
   <a target="_blank" href="#" title="A passionate Fullstack developer from Colombia">
@@ -35,7 +34,7 @@
 <div>
   <h2>
     <a target="_blank" href="#">
-      <img src="https://media.giphy.com/media/JSvb3BQZunLTj1gd6h/giphy.gif" width="30"></a>&nbsp;<u><b>Knowledge Base</b></u>
+      <img src="https://media.giphy.com/media/kdFCNginJkA1OehxcZ/giphy.gif" width="25"></a>&nbsp;<u><b>Knowledge Base</b></u>
   </h2>
   <p align="left">
     <ul>
