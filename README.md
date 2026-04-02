@@ -137,20 +137,23 @@
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Belseck&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true">
             <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Belseck&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_color=e5e3e3">
-            <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Belseck&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-        </picture></a>
+            <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Belseck&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"></picture></a>
     <a href="https://github.com/Belseck">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Belseck&count_private=true&include_all_commits=true&theme=dark&hide_border=true">
             <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Belseck&count_private=true&include_all_commits=true&hide_border=false&border_color=e5e3e3">
-            <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Belseck&count_private=true&include_all_commits=true&theme=dark&hide_border=true"/></a>
-        </picture></a>
+            <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Belseck&count_private=true&include_all_commits=true&theme=dark&hide_border=true"></picture></a><br>
     <a href="https://github.com/Belseck">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Belseck&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true">
             <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Belseck&show_icons=true&count_private=true&include_all_commits=true&hide_border=true">
-            <img height="219em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Belseck&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true"/>
-        </picture></a>
+            <img height="219em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Belseck&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true"></picture></a><br>
+    <a href="https://github.com/Belseck">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Belseck/Belseck/output/pacman-contribution-graph-dark.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Belseck/Belseck/output/pacman-contribution-graph.svg">
+            <img height="219em" src="https://raw.githubusercontent.com/Belseck/Belseck/output/pacman-contribution-graph.svg"></picture></a>
+    <a>
   </p>
 </div>
 
@@ -183,14 +186,6 @@
     </ul>
   </p>
 </div>
-
-<!-- ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Belseck/Belseck/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Belseck/Belseck/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Belseck/Belseck/output/pacman-contribution-graph.svg">
-</picture> -->
 
 ---
 
