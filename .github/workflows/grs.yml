@@ -1,14 +1,14 @@
 name: Update README cards
 
-on:
-  schedule:
-    - cron: "0 19 * * *"
+on: {}
+#   schedule:
+#     - cron: "0 19 * * *"
 
-  workflow_dispatch:
+#   workflow_dispatch:
 
-  push:
-    branches:
-    - master
+#   push:
+#     branches:
+#     - master
 
 permissions:
   contents: read
@@ -29,7 +29,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_color=e5e3e3
           # &show=reviews,prs_merged,prs_merged_percentage
-          path: profile/stats.svg
+          path: github-readme-stats/card.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate stats card dark
@@ -38,7 +38,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark
           # &show=reviews,prs_merged,prs_merged_percentage
-          path: profile/stats-dark.svg
+          path: github-readme-stats/card-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
@@ -46,7 +46,7 @@ jobs:
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=20&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_color=e5e3e3
-          path: profile/top-langs.svg
+          path: github-readme-stats/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card dark
@@ -54,13 +54,29 @@ jobs:
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=20&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark
-          path: profile/top-langs-dark.svg
+          path: github-readme-stats/top-langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate WakaTime card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: wakatime
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=20&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_color=e5e3e3
+          path: github-readme-stats/wakatime.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate WakaTime card dark
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: wakatime
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=20&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark
+          path: github-readme-stats/wakatime-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git add profile/*.svg
+          git add github-readme-stats/*.svg
           git commit -m "Update README cards" || exit 0
           git push
