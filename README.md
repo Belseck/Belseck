@@ -21,11 +21,11 @@
 <div>
   <h2>
     <a target="_blank" href="#">
-      <img src="https://media.giphy.com/media/RLJwznjYTk73czfdbH/giphy.gif" width="30"></a>&nbsp;<u><b>About Me</b></u>
+      <img src="./images/section-icons/about-me.gif" width="30"></a>&nbsp;<u><b>About Me</b></u>
   </h2>
   <p align="justify">
     <a target="_blank" href="#">
-      <img align="right" style="min-width:380px; width:20rem; height:auto; margin-bottom:10rem;" src="https://github.com/Belseck/Belseck/blob/master/TNCR-graphics-KB-2.gif"/></a>
+      <img align="right" style="min-width:380px; width:20rem; height:auto; margin-bottom:10rem;" src="./images/about-me.gif"/></a>
     Fullstack Developer with 9+ years of experience building scalable mobile and web applications.
     Proven experience in Android development and fullstack solutions, with a strong focus on performance optimization, bug reduction, and clean, maintainable code.
     Passionate about delivering high-quality software with real-world impact, applying clean architecture principles and best development practices.<br><br>
@@ -40,7 +40,7 @@
 <div>
   <h2>
     <a target="_blank" href="#">
-      <img src="https://media.giphy.com/media/kdFCNginJkA1OehxcZ/giphy.gif" width="25"></a>&nbsp;<u><b>Knowledge Base</b></u>
+      <img src="./images/section-icons/knowledge-base.gif" width="25"></a>&nbsp;<u><b>Knowledge Base</b></u>
   </h2>
   <p align="left">
     <ul>
@@ -137,7 +137,7 @@
 <div>
   <h2>
     <a target="_blank" href="#">
-      <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"></a>&nbsp;<u><b>GitHub Analytics</b></u>
+      <img src="./images/section-icons/analytics.gif" width="25"></a>&nbsp;<u><b>GitHub Analytics</b></u>
   </h2>
   <p align="center">
     <a href="https://github.com/Belseck">
@@ -195,7 +195,7 @@
 <div>
   <h2>
     <a target="_blank" href="#">
-      <img src="https://media.giphy.com/media/VGVBCkwHekfvWhc17g/giphy.gif" width="30"></a>&nbsp;<u><b>Currently Improving</b></u>
+      <img src="./images/section-icons/currently-improving.gif" width="30"></a>&nbsp;<u><b>Currently Improving</b></u>
   </h2>
   <p align="justify">
     <ul>
@@ -210,7 +210,7 @@
 <div>
   <h2>
     <a target="_blank" href="#">
-      <img src="https://media.giphy.com/media/K5HFeLZs4cCbdaJeHJ/giphy.gif" width="25"></a>&nbsp;<u><b>Open to Opportunities</b></u>
+      <img src="./images/section-icons/opportunities.gif" width="25"></a>&nbsp;<u><b>Open to Opportunities</b></u>
   </h2>
   <p align="justify">
     <ul>
@@ -225,7 +225,7 @@
 <div>
   <h2 align="center">
     <a target="_blank" href="#">
-      <img src="https://media.giphy.com/media/iPRtIf0OlGlSnNfV7W/giphy.gif" width="25"></a>&nbsp;<u><b>Connect with me</b></u>
+      <img src="./images/section-icons/connect-with-me.gif" width="25"></a>&nbsp;<u><b>Connect with me</b></u>
   </h2>
   <p align="center">
     <a href="https://www.linkedin.com/in/juan-diego-rodriguez-jimenez/" target="_blank">
